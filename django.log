@@ -1,0 +1,12 @@
+INFO 09-04-2024 18:27:22 autoreload Watching for file changes with StatReloader
+INFO 09-04-2024 18:29:12 autoreload Watching for file changes with StatReloader
+INFO 09-04-2024 18:29:44 autoreload E:\django-hw1\main_page\views.py changed, reloading.
+INFO 09-04-2024 18:29:44 autoreload Watching for file changes with StatReloader
+INFO 09-04-2024 18:29:51 autoreload Watching for file changes with StatReloader
+INFO 09-04-2024 18:29:53 views The function index was returned: Посещена страница /
+INFO 09-04-2024 18:29:53 basehttp "GET / HTTP/1.1" 200 820
+WARNING 09-04-2024 18:29:54 log Not Found: /favicon.ico
+WARNING 09-04-2024 18:29:54 basehttp "GET /favicon.ico HTTP/1.1" 404 2437
+INFO 09-04-2024 18:31:04 basehttp "GET /about HTTP/1.1" 301 0
+INFO 09-04-2024 18:31:04 views The function about was returned: Посещена страница /about/
+INFO 09-04-2024 18:31:04 basehttp "GET /about/ HTTP/1.1" 200 2958
